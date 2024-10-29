@@ -48,8 +48,8 @@
     <div class="heart-frame">
       zahidee bana bir şans verr
         <!-- 50 adet kalp ekleniyor, isteğinize göre arttırabilirsiniz -->
-        <?php
-          for ($i = 0; $i < 50; $i++) 
+    
+        
             echo '<div class="heart">&hearts;</div>
           
        
