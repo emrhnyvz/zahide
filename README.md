@@ -47,10 +47,10 @@
 <body>
     <div class="heart-frame">
       zahidee bana bir şans verr
-        <!-- 50 adet kalp ekleniyor, isteğinize göre arttırabilirsiniz -->
+       
     
         
-            echo '<div class="heart">&hearts;</div>
+        
           
        
     </div>
